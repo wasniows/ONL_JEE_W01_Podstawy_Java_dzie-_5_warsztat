@@ -1,1 +1,1 @@
-# ONL_JEE_W01_Podstawy_Java_dzien_5_warsztat
+Program konsolowy do zarządzania zadaniami.
