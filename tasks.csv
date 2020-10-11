@@ -1,3 +1,5 @@
-Simple task - very important, 2020-03-09, true
-Second task not so important, 2020-05-10, false
-Throw away trash, 2020-03-09, false
+task4,2020-10-25,true
+task5,2020-10-11,false
+task5,2020-11-22,true
+task6,2020-11-21,list
+task,2020-10-11,false
